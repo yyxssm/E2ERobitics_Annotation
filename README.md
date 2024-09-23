@@ -1,6 +1,8 @@
 # 具身智能端到端机械臂  数据标注工具
 
 ### 工具介绍 (点击图片跳转YouTube视频)
+github仓库里也有视频可供下载，路径在```doc/20240909标注工具介绍.mp4```
+
 [![My Video](doc/main_gui.png)](https://www.youtube.com/watch?v=6eklVXlqUR8)
 
 
