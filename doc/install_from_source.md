@@ -3,7 +3,7 @@
 
 0. 克隆项目
    ```
-   git clone https://github.com/naurril/SUSTechPOINTS
+   git clone https://github.com/yyxssm/E2ERobitics_Annotation
    ```
 1. 安装必要的包
      ```
