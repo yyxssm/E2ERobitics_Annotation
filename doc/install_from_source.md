@@ -6,10 +6,16 @@
    git clone https://github.com/yyxssm/E2ERobitics_Annotation
    ```
 1. 安装必要的包
+方法一：直接安装
      ```
      conda create -n labeling python=3.8 -y
      conda activate labeling
      pip install -r requirement.txt
+     ```
+
+方法二：基于虚拟环境yml文件安装
+     ```
+     conda env create -f environment.yml -n labeling
      ```
 2. 下载模型
 
