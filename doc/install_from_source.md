@@ -7,6 +7,8 @@
    ```
 1. 安装必要的包
      ```
+     conda create -n labeling python=3.8 -y
+     conda activate labeling
      pip install -r requirement.txt
      ```
 2. 下载模型
