@@ -6,6 +6,7 @@
    git clone https://github.com/yyxssm/E2ERobitics_Annotation
    ```
 1. 安装必要的包
+
 方法一：直接安装
      ```
      conda create -n labeling python=3.8 -y
