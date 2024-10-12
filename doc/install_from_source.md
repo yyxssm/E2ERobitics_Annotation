@@ -7,17 +7,18 @@
    ```
 1. 安装必要的包
 
-方法一：直接安装
+     方法一：直接安装
      ```
      conda create -n labeling python=3.8 -y
      conda activate labeling
      pip install -r requirement.txt
      ```
 
-方法二：基于虚拟环境yml文件安装
+     方法二：基于虚拟环境yml文件安装
      ```
      conda env create -f environment.yml -n labeling
      ```
+
 2. 下载模型
 
      download pretrained model file [deep_annotation_inference.h5](https://github.com/naurril/SUSTechPOINTS/releases/download/0.1/deep_annotation_inference.h5), put it into `./algos/models`
